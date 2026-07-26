@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://workplace-page-novelty-physical.trycloudflare.com/vnc.html
+URL       : https://reduces-ink-grams-charts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-26 01:45:03
+Created   : 2026-07-26 07:32:31
 =======================================================
