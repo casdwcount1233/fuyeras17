@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://spas-gdp-candidates-replacement.trycloudflare.com/vnc.html
+URL       : https://philosophy-wishlist-springfield-taught.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-27 08:23:27
+Created   : 2026-07-27 12:51:57
 =======================================================
