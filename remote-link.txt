@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://intelligent-gzip-undergraduate-insulation.trycloudflare.com/vnc.html
+URL       : https://cape-home-areas-viewpicture.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 07:29:02
+Created   : 2026-08-02 11:13:14
 =======================================================
