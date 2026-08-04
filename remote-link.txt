@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://avoid-successful-conditional-designed.trycloudflare.com/vnc.html
+URL       : https://cartoons-cloth-troops-airplane.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 11:56:42
+Created   : 2026-08-04 16:48:33
 =======================================================
