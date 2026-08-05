@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://constructed-reveals-briefing-portal.trycloudflare.com/vnc.html
+URL       : https://insertion-completed-wrestling-bring.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 07:33:41
+Created   : 2026-08-05 16:28:09
 =======================================================
