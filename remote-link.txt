@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://genealogy-generating-particles-bow.trycloudflare.com/vnc.html
+URL       : https://exhaust-mambo-trailer-wanna.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 15:45:24
+Created   : 2026-08-07 20:30:38
 =======================================================
