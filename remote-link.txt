@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://returning-century-freebsd-earnings.trycloudflare.com/vnc.html
+URL       : https://announced-briefing-talks-structure.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-14 10:49:35
+Created   : 2026-08-14 15:43:15
 =======================================================
